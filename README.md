@@ -109,8 +109,8 @@ adb shell pm enable com.mitv.tvhome.atv
 adb shell cmd package install-existing <PACKAGE_NAME>
 # Example: adb shell cmd package install-existing com.google.android.videos
 
-
-Türkçe
+<a name="türkçe"></a>
+## Türkçe
 
 Xiaomi Mi Box S (MDZ-22-AB - Amlogic S905X) modeli için test edilmiş, root gerektirmeyen güvenli debloat ve performans optimizasyon kılavuzu.
 
